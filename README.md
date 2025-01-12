@@ -16,7 +16,7 @@ This Python project provides a comprehensive analysis of Olympics data, covering
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mk0380/Olympics-Analysis.git
+   git clone https://github.com/Midhun0312/Olympic_Data_Analysis.git
    cd Olympics-Analysis
 
 2. Ensure you have Python 3.12.4 installed.
@@ -30,6 +30,6 @@ This Python project provides a comprehensive analysis of Olympics data, covering
    streamlit run app.py
 
 ## Support
-  If you encounter any issues or have any questions, contact the project maintainer at [mayankkr21@iitk.ac.in].
+  If you encounter any issues or have any questions, contact the project maintainer at [midhunmohan0312@gmail.com].
 
   
